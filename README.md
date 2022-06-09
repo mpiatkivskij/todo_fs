@@ -1,5 +1,4 @@
-# todo_fs
-**To run this project in Docker follow the steps shown below.**
+# To run this project in Docker follow the steps shown below
     1. Download  the repo with this project  from GitHub.
     2. Unpack the project.
     3. Open "todo_fs" through the terminal.
